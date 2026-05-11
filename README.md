@@ -229,6 +229,90 @@
 
 ---
 
+## 19. Good to Have (NOT MANDATORY – Implement Any 5 Out of 20 for Extra Skill Boost)
+
+- [ ] API Response Standardization implemented  
+  - All APIs follow a consistent response format (success, message, data, error)  
+  - Helps maintain uniform backend structure across the project  
+
+- [ ] Request Logging Middleware added  
+  - Logs every incoming request (method, URL, timestamp)  
+  - Helps in debugging and monitoring API usage  
+
+- [ ] Centralized Async Error Handler used  
+  - Common wrapper function used for async routes  
+  - Removes repeated try-catch blocks and keeps code clean  
+
+- [ ] Environment-based Configuration implemented  
+  - Separate configs for development and production  
+  - Helps in real-world deployment scenarios  
+
+- [ ] Custom Data Validation Layer added  
+  - Input validation before database operations  
+  - Ensures clean and safe data entry  
+
+- [ ] Soft Delete Feature implemented  
+  - Data is not permanently deleted  
+  - Uses `isDeleted: true` flag instead of removing records  
+
+- [ ] Timestamp Tracking System implemented  
+  - Tracks `createdAt` and `updatedAt` for all records  
+  - Helps in auditing and history tracking  
+
+- [ ] Basic Rate Limiting implemented  
+  - Limits number of requests per user/IP  
+  - Prevents API abuse and improves security  
+
+- [ ] Advanced Search using Regex implemented  
+  - Case-insensitive search functionality  
+  - Improves user-friendly querying  
+
+- [ ] Database Seeding Script created  
+  - Automatically inserts JSON dataset into MongoDB  
+  - Speeds up development and testing process  
+
+- [ ] Reusable Pagination Utility created  
+  - Common pagination logic extracted into utility function  
+  - Avoids repetition across multiple APIs  
+
+- [ ] Dynamic Filter Builder implemented  
+  - Builds MongoDB filters based on query params  
+  - Enables flexible and scalable filtering system  
+
+- [ ] Role-Based Access Control (RBAC) added  
+  - Defines roles like admin/user  
+  - Restricts access to specific APIs  
+
+- [ ] API Versioning Structure implemented  
+  - Uses `/api/v1` format  
+  - Helps in maintaining future updates without breaking APIs  
+
+- [ ] Health Check API created  
+  - Simple endpoint to check server status  
+  - Useful for deployment monitoring  
+
+- [ ] Password Hashing implemented using bcrypt  
+  - Ensures secure storage of passwords  
+  - Prevents storing plain text passwords  
+
+- [ ] JWT Token Expiry Handling added  
+  - Handles expired tokens properly  
+  - Improves authentication security flow  
+
+- [ ] Enhanced API Documentation in Postman  
+  - Includes request/response examples  
+  - Makes APIs easier to test and understand  
+
+- [ ] Debug Mode Logging System implemented  
+  - Detailed logs enabled only in development mode  
+  - Keeps production logs clean and optimized  
+
+- [ ] Data Backup Script (Basic Level) added  
+  - Allows exporting MongoDB data  
+  - Helps in recovery and backup understanding  
+
+---
+
 # Final Evaluation Criteria (Important)
 
 A project will be considered complete and industry-ready only if:

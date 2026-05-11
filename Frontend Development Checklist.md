@@ -234,8 +234,9 @@
 - [ ] Open Graph tags implemented (for social sharing previews)  
 - [ ] React Helmet (or equivalent) used for managing SEO metadata  
 - [ ] Sitemap created for application routes  
+- [ ] Website added and verified on Google Search Console
 
-### additional (optional)
+### additional (mandatory)
 
 - [ ] Structured data (schema.org) implemented for better search engine understanding  
 

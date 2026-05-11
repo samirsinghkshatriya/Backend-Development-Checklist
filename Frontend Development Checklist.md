@@ -8,6 +8,12 @@
 
 ---
 
+# Project Timeline (STRICT DEADLINE – MANDATORY)
+
+- [ ] Frontend Development Phase: **28 May 2026 – 12 June 2026 (15 Days)**  
+  - Frontend must be fully completed after backend completion  
+  - Includes dashboard UI, API integration, authentication flow, and deployment-ready build 
+
 ## 0. Backend Integration & API Mapping (MANDATORY FIRST STEP)
 
 - [ ] Backend APIs fully tested using Postman before frontend start  

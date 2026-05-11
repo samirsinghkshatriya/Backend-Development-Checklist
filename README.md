@@ -1,6 +1,13 @@
 # Backend Development Checklist: (Full Stack Project – 2026)
 
-- [ ] Backend must be completed within first 15 days before starting frontend checklist implementation  
+- [ ] Backend must be completed within first 15 days before starting frontend checklist implementation
+
+# Project Timeline (STRICT DEADLINE – MANDATORY)
+
+- [ ] Backend Development Phase: **12 May 2026 – 27 May 2026 (15 Days)**  
+  - Backend must be fully completed, tested, and documented within this period  
+  - Includes MongoDB, APIs, authentication, aggregation, and Postman testing  
+---
 
 ## 0. Dataset Understanding & Project Planning (MANDATORY FIRST STEP)
 

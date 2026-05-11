@@ -229,6 +229,22 @@
 
 ---
 
+
+# Final Evaluation Criteria (Important)
+
+A project will be considered complete and industry-ready only if:
+
+- All CRUD APIs are fully working  
+- MongoDB schema design is clean and scalable  
+- Advanced queries (filter, sort, search, pagination) are implemented  
+- JWT authentication system is working  
+- Middleware system is properly structured  
+- Error handling is consistent across project  
+- Aggregation pipeline is implemented  
+- MVC architecture is properly followed  
+- Entire dataset is fully integrated into backend  
+- API documentation (Postman) is properly completed  
+
 ## 19. Good to Have (NOT MANDATORY – Implement Any 5 Out of 20 for Extra Skill Boost)
 
 - [ ] API Response Standardization implemented  
@@ -312,18 +328,3 @@
   - Helps in recovery and backup understanding  
 
 ---
-
-# Final Evaluation Criteria (Important)
-
-A project will be considered complete and industry-ready only if:
-
-- All CRUD APIs are fully working  
-- MongoDB schema design is clean and scalable  
-- Advanced queries (filter, sort, search, pagination) are implemented  
-- JWT authentication system is working  
-- Middleware system is properly structured  
-- Error handling is consistent across project  
-- Aggregation pipeline is implemented  
-- MVC architecture is properly followed  
-- Entire dataset is fully integrated into backend  
-- API documentation (Postman) is properly completed  

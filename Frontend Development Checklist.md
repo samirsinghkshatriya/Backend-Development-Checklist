@@ -1,6 +1,6 @@
 # Frontend Development Checklist (Full Stack Dashboard Project – 2026)
 
-- [ ] Frontend must be started only after backend completion (first 15 days backend mandatory)
+- [ ] Frontend must be started only after backend completion (first 15 days backend mandatory and then next 15 days for frontend)
 
 - [ ] Frontend must be directly integrated with backend APIs (MongoDB + Express backend)
 

@@ -1,6 +1,6 @@
 # Backend Development Checklist: (Full Stack Project – 2026)
 
-
+- [ ] Backend must be completed within first 15 days before starting frontend checklist implementation  
 
 ## 0. Dataset Understanding & Project Planning (MANDATORY FIRST STEP)
 

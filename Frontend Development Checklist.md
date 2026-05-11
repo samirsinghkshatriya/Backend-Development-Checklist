@@ -241,8 +241,7 @@
 - [ ] README created  
 - [ ] Frontend setup steps included  
 - [ ] Folder structure explained  
-- [ ] Features clearly documented  
-- [ ] Postman API reference linked for backend  
+- [ ] Features clearly documented   
 
 ---
 

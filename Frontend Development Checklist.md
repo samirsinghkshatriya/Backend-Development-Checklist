@@ -39,7 +39,6 @@
   - features  
   - hooks  
   - services (API layer)  
-  - utils  
   - store (Redux Toolkit)  
 
 - [ ] Feature-based architecture followed  

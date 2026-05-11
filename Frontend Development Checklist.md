@@ -227,7 +227,19 @@
 
 ---
 
-## 17. Code Quality
+## 17. SEO Implementation (IMPORTANT)
+
+- [ ] Page titles set dynamically (based on route/content)  
+- [ ] Meta descriptions added for all major pages  
+- [ ] Open Graph tags implemented (for social sharing previews)  
+- [ ] React Helmet (or equivalent) used for managing SEO metadata  
+- [ ] Sitemap created for application routes  
+
+### additional (optional)
+
+- [ ] Structured data (schema.org) implemented for better search engine understanding  
+
+## 18. Code Quality
 
 - [ ] ESLint configured  
 - [ ] Prettier configured  
@@ -236,7 +248,7 @@
 
 ---
 
-## 18. Documentation
+## 19. Documentation
 
 - [ ] README created  
 - [ ] Frontend setup steps included  
